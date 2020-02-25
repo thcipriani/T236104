@@ -10,4 +10,4 @@ switch:
 check:
 	test/checker.sh
 
-.PHONY: run switch check
+.PHONY: build run switch check
